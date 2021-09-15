@@ -1,0 +1,15 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1392336685000",
+      "Effect": "Allow",
+      "Action": [
+        "ec2:*"
+      ],
+      "Resource": [
+        "arn:aws:ec2:us-east-1:384690841080:security-group/sg-0369bdc8922cc9dcc"
+      ]
+    }
+  ]
+}
